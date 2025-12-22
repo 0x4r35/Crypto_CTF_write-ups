@@ -1,2 +1,2 @@
-# CTF_write-ups
-crypto related writeups 
+# CTF_solvers
+crypto solves by me 
