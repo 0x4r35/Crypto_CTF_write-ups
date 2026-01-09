@@ -40,4 +40,5 @@ def solve():
         io.close()
 
 if __name__ == "__main__":
+
     solve()
